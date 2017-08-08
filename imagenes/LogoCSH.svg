@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<svg width="397" height="217" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+
+ <g>
+  <title>Layer 1</title>
+  <path stroke="#ff0000" id="svg_1" d="m2.500003,108.5l195.999997,-105.999999l195.999997,105.999999l-198.107524,105.999999l-193.892471,-105.999999z" stroke-width="5" fill="#FF0000"/>
+  <text stroke="#ffffff" transform="matrix(6.716131042488064,0,0,7.370678483807676,-524.3173498323105,-974.2208336019708) " font-weight="bold" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_2" y="154.753923" x="108.440025" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#ffffff">CSH</text>
+  <text id="svg_4" stroke="#ffffff" transform="matrix(6.716131042488064,0,0,7.370678483807676,-524.3173498323105,-974.2208336019708) " font-weight="bold" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" y="154.753923" x="108.58892" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">CSH</text>
+ </g>
+</svg>
